@@ -1,4 +1,4 @@
 # Machine-learning-Project
-This is my first Git Repository.
+Breast Cancer Prediction.
 <br>
 Author-Sakina khan
